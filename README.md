@@ -1,2 +1,2 @@
 # Col0ring-introduce
-Col0ring的简历
+大一时的小demo，模仿那时候很火的动态简历效果
